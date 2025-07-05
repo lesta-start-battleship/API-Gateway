@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.1.2] - 2025-07-05
+
+### Fix
+
+- fix(web): Commenting on unnecessary lines due to their current irrelevance
+
 ## [0.1.1] - 2025-07-05
 
 ### Fix
