@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [0.1.4] - 2025-07-05
+
+### Fix
+
+- fix(web): Improvement in nginx.conf file
+
+    - Removed user declaration and moved lua_shared_dict, lua_package_path and lua_need_request_body to http block
+
 ## [0.1.3] - 2025-07-05
 
 ### Fix
