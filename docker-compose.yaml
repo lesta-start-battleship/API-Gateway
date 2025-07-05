@@ -1,0 +1,10 @@
+services:
+  openresty:
+    image: openresty/openresty:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf
+      - ./utils.lua:/etc/nginx/lua/utils.lua
+      - /etc/ssl/certs/jwt_public_key.pem:/etc/nginx/lua/jwt_public_key.pem
+    restart: always
