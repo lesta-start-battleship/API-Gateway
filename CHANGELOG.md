@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.1.3] - 2025-07-05
+
+### Fix
+
+- fix(web): Adding the default NGINX configuration to the nginx.conf file
+
 ## [0.1.2] - 2025-07-05
 
 ### Fix
