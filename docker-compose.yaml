@@ -1,6 +1,6 @@
 services:
   openresty:
-    image: openresty/openresty:latest
+    image: bitnami/openresty:latest
     ports:
       - "80:80"
     volumes:

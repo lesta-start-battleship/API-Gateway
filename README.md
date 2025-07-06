@@ -13,7 +13,6 @@
 
 Для установки OpenResty на Ubuntu необходимо:
 
-
 1. Клонировать репозиторий `git clone https://github.com/lesta-start-battleship/API-Gateway.git`
 2. Необходимо иметь публичный ключ для проверки JWT токенов от микросервиса авторизации
 3. Перенести публичный ключ в директорию `/etc/ssl/certs/jwt_public_key.pem`

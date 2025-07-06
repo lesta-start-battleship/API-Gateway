@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [0.1.5] - 2025-07-06
+
+### Feat
+
+- feat(web): Adding redirect logic when confirming email and managing return to cli of common errors
+
+
 ## [0.1.4] - 2025-07-05
 
 ### Fix
