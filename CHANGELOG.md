@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [0.2.0] - 2025-07-07
+
+### Feat
+
+- feat(web): Improved nginx.conf, added dockerfile
+
+    - Added dockerfile for better container build performance
+    - In the nginx.conf file, log output has been improved, buffering of requests and responses has been enabled
+
+
 ## [0.1.5] - 2025-07-06
 
 ### Feat
