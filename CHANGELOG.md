@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.2.2] - 2025-07-09
+
+### Fix
+
+- fix(web): Adding debug information
+
 ## [0.2.1] - 2025-07-08
 
 ### Fix
