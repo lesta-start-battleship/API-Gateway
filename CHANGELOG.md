@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.2.1] - 2025-07-08
+
+### Fix
+
+- fix(web): Fixing the IP address of the auth_service
+
 ## [0.2.0] - 2025-07-07
 
 ### Feat
