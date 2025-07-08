@@ -1,10 +1,18 @@
 # CHANGELOG
 
+## [0.2.3] - 2025-07-09
+
+### Fix
+
+- fix(web): Adding a condition whether the token is valid
+
+
 ## [0.2.2] - 2025-07-09
 
 ### Fix
 
 - fix(web): Adding debug information
+
 
 ## [0.2.1] - 2025-07-08
 
@@ -13,6 +21,7 @@
 - fix(web): Fixing the IP address of the auth_service
 
 ## [0.2.0] - 2025-07-07
+
 
 ### Feat
 
