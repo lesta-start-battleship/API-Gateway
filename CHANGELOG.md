@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [0.3.0] - 2025-07-09
+
+### Fix
+
+- fix(web): Adding HTTPS connection and updating Nginx configuration
+
+
 ## [0.2.3] - 2025-07-09
 
 ### Fix
