@@ -1,10 +1,16 @@
 # CHANGELOG
 
-## [0.3.0] - 2025-07-09
+## [0.3.1] - 2025-07-09
 
 ### Fix
 
-- fix(web): Adding HTTPS connection and updating Nginx configuration
+- fix(web): Bug fix, adding port 443 forwarding
+
+## [0.3.0] - 2025-07-09
+
+### Feat
+
+- feat(web): Adding HTTPS connection and updating Nginx configuration
 
 
 ## [0.2.3] - 2025-07-09
