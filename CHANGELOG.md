@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.3.2] - 2025-07-09
+
+### Fix
+
+- fix(proxy): Adding proxying to endpoints for interaction with user profile
+
 ## [0.3.1] - 2025-07-09
 
 ### Fix
