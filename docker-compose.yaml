@@ -6,6 +6,8 @@ services:
     - ./nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf
     - ./utils.lua:/usr/local/openresty/lualib/resty/utils.lua
     - /home/ubuntu/API-Gateway/jwt_public_key.pem:/etc/ssl/certs/jwt_public_key.pem
+    - /etc/letsencrypt/live/battleship-lesta-start.ru/fullchain.pem:/etc/letsencrypt/live/battleship-lesta-start.ru/fullchain.pem
+    - /etc/letsencrypt/live/battleship-lesta-start.ru/privkey.pem:/etc/letsencrypt/live/battleship-lesta-start.ru/privkey.pem  
 
     ports:
       - "80:80"
