@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.3.3] - 2025-07-10
+
+### Fix
+
+- fix(web): Adding proxying to endpoints for interaction with scoreboard_service and new SSL certificates for API Gateway
+
 ## [0.3.2] - 2025-07-09
 
 ### Fix
